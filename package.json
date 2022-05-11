@@ -1,4 +1,5 @@
 {
+  "name": "chakrathon-yuki-team",
   "private": true,
   "scripts": {
     "dev": "next",
