@@ -4,8 +4,8 @@ export const Container = (props: FlexProps) => (
   <Flex
     direction="column"
     alignItems="center"
-    justifyContent="flex-start"
-    bg="red.50"
+    justifyContent="space-between"
+    bg="gray.50"
     color="black"
     _dark={{
       bg: 'gray.900',
